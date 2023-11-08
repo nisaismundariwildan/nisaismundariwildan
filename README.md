@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Nisa, now i'm studying data science in Regional Innovation Study Programme Universitas Padjajaran in Indonesia
 
 <!--
 **nisaismundariwildan/nisaismundariwildan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
