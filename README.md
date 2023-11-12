@@ -8,6 +8,7 @@ I’m working on my own company Sakubi Teknologi Indonesia and also become an as
 I am currently actively conducting research in the field of vocational apprenticeship and regional innovation development to improve the welfare of the elderly.
 
 **Education**
+
 Universitas Padjajaran (2022 - present)
   Master of Regional Innovation, Data Scoence
 
